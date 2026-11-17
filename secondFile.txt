@@ -1,10 +1,10 @@
 1 line - second file
 2 line - second file
 3 line - second file
-4 line - second file
+4 line - second file - updated >:D
 5 line - second file
 6 line - second file
 7 line - second file
-8 line - second file
+8 line - second file - updated >:D
 9 line - second file
 10 line - second file
