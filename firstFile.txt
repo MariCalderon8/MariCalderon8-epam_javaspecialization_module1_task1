@@ -1,5 +1,5 @@
-1 line
-2 line
+1 line - changed in the new folder B)
+2 line - changed in the new folder B)
 3 line - another line modified \('^')/
 4 line
 5 line
